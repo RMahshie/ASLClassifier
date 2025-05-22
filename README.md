@@ -1,8 +1,8 @@
-# ASL Image Classifier 🧠🤟
+# ASL Image Classifier 
 
 A deep learning project that classifies American Sign Language (ASL) hand signs using a custom convolutional neural network (CNN) built in PyTorch. This model was trained on a labeled image dataset and achieves high accuracy across 36 ASL classes.
 
-## 📌 Features
+## Features
 
 - Custom TinyVGG CNN architecture built from scratch in PyTorch  
 - Trained on a dataset of over 5,000 labeled ASL images  
@@ -11,7 +11,7 @@ A deep learning project that classifies American Sign Language (ASL) hand signs 
 - Includes data preprocessing with PyTorch `transforms` and `ImageFolder`  
 - Simple training pipeline with modular code structure
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python  
 - PyTorch  
@@ -20,7 +20,7 @@ A deep learning project that classifies American Sign Language (ASL) hand signs 
 - torchvision  
 - Jupyter Notebook / VS Code  
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 ├── data/                   # ASL image dataset (not included)
